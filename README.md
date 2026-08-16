@@ -4,20 +4,33 @@ A multi-disciplinary technology professional blending advanced software engineer
 
 ---
 
-## 🎓 Executive Educational Roadmap
+## 🎓 Executive Educational Roadmap & Progress Tracker
 
 ### 🧠 Master's Degree
-*   **M.S. in Applied Behavior Analysis (ABA)** | *Concentration in Organizational Behavior Management (OBM)*
+*   **M.S. in Applied Behavior Analysis (ABA)** | *Concentration in Organizational Behavior Management (OBM)* — `[ ⏳ STATUS: UPCOMING ]`
     *   **Focus:** Optimizing corporate systems performance, behavioral data collection architectures, and systemic workplace productivity interventions.
+    *   **Milestone Target:** Applying algorithmic behavior intervention schemas to corporate workplace efficiency metrics.
 
 ### 💻 Bachelor's Degree
-*   **B.A.S. in Computing Technology and Software Development** | *Software Development Concentration*
+*   **B.A.S. in Computing Technology and Software Development** | *Software Development Concentration* — `[ ⏳ STATUS: UPCOMING ]`
     *   **Focus:** Advanced object-oriented programming, enterprise software lifecycle patterns, and full-stack system architecture.
+    *   **Milestone Target:** Architecting enterprise multi-tier client-server software layers and containerized systems.
 
-### 🌐 Associate Degrees
-*   **A.S. in Computer Programming and Analysis** ➔ Core coding structures, OOP compilers, and algorithm optimization.
-*   **A.S. in Cybersecurity & Network Engineering Technology** ➔ Hardened network topologies, firewall implementations, and infrastructure defense.
-*   **A.S. in Computer Information Technology** ➔ Systems administration, enterprise technical architecture, and cloud deployment paradigms.
+### 🌐 Associate Degrees & Active Milestones
+
+*   **A.S. in Computer Programming and Analysis** — `[ ⚡ STATUS: ACTIVE STAGE ]`
+    *   **Focus:** Core coding structures, OOP compilers, and algorithm optimization to pick up core programming sequences.
+    *   **Current Progress:** 🟥🟩🟩🟩🟩🟩🟩🟩🟩🟩 10% Complete
+    *   **Active Term (Fall 2026):** 
+        *   `COP 1000C` - Introduction to Programming Concepts *(Developing foundational script logic)*
+        *   `CGS 2545C` - Database Management Systems *(Designing localized relational database models)*
+    *   **Prerequisite Milestone:** Completed `STA 2023` Statistical Methods for ABA tracking matrix preparation.
+
+*   **A.S. in Cybersecurity & Network Engineering Technology** — `[ 🚀 STATUS: PLANNED BRIDGING ]`
+    *   **Focus:** Hardened network topologies, firewall implementations, and infrastructure defense.
+
+*   **A.S. in Computer Information Technology** — `[ 🚀 STATUS: PLANNED BRIDGING ]`
+    *   **Focus:** Systems administration, enterprise technical architecture, and cloud deployment paradigms.
 
 ---
 
@@ -65,6 +78,6 @@ A multi-disciplinary technology professional blending advanced software engineer
 ---
 
 ## 🤝 Connect With Me
-*   **LinkedIn:** [Your Professional Profile Link](https://www.linkedin.com/in/ladonnacomer315/)
+*   **LinkedIn:** [LaDonna's Professional Profile Link](https://www.linkedin.com/in/ladonnacomer315/)
 *   **Institutional Portfolio:** [Valencia College Academic Hub](https://valenciacollege.edu)
 *   **Ecosystem Workflow:** High-Performance Custom 850W RTX 4070 Desktop + Remote Travel-Optimized Dell Latitude 5440 Link
