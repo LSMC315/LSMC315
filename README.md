@@ -1,4 +1,4 @@
-# 💻 Tech Student & RBT | Learning to Integrate Software Development, Data Analytics, and Behavioral Science to Build Accessible Community Ecosystems
+# 💻 Computer Science Student & RBT | Learning to Integrate Software Development, Data Analytics, and Behavioral Science to Build Accessible Community Ecosystems
 
 An RBT and healthcare professional with over 14 years of experience in human services (including 4 years as an active Registered Behavior Technician)pivoting into software development. I am currently learning Python and SQL to transition my hands-on clinical experience into technical problem-solving. I focus on project-based learning and practical execution to design reliable, accessible software solutions for community and behavioral health settings.
 
@@ -51,15 +51,23 @@ An RBT and healthcare professional with over 14 years of experience in human ser
 
 I treat hackathons as high-velocity, project-based learning camps to accelerate my technical development. My goal is to build real projects from the ground up, apply my foundational Python and SQL skills immediately, and bring my extensive background in human services to collaborative problem-solving teams.
 
-### 📅 Active & Upcoming Events
-*   **Knight Hacks IX** | *University of Central Florida (UCF)* — `[ ⚡ STATUS: ACCEPTED & CONFIRMED ]`
-    *   **Timeline:** October 9 – 11, 2026
-    *   **Focus:** Intensive coding camp, collaborative prototype building, and industry networking.
-    *   **Event Milestones:**
-        * [x] **Application & Acceptance Confirmation** 
-        * [ ] **Team Formation & Project Ideation** *(Active Stage)*
-        * [ ] **48-Hour Coding Sprint Execution**
-        * [ ] **Final Project Repository & MVP Deployment**
+## 📅 Active & Upcoming Events
+
+### 🏁 Past Milestones
+* **Knight Hacks IX (University of Central Florida)** 
+  * **Status:** Completed (October 2026) 
+  * **Submission:** Successfully developed and deployed *Enchanted Defense*, a custom game project built during the hackathon workspace pipeline.
+
+### 🚀 Upcoming Confirmed Events
+* **DevFest Florida Hackathon 2026**
+  * **Dates:** November 6 – November 8, 2026
+  * **Status:** Confirmed Participant ( Valencia College Student Track)
+  * **Focus:** Software application development and technical workshops.
+
+* **Girl Develop It (GDI) Hackathon: Build Beyond 2026**
+  * **Dates:** November 11 – November 14, 2026
+  * **Status:** Confirmed Participant
+  * **Focus:** Inclusive community-driven development, collaborative coding workflows, and interactive project builds.
 
 ## 🛠️ Technical Arsenal & Foundations
 
@@ -75,38 +83,22 @@ I treat hackathons as high-velocity, project-based learning camps to accelerate 
 
 ---
 
-## 🧪 Future Specialized Projects
+## 🚀 Current Projects
 
-### 📈 Data Analytics & Organizational Behavior Management (OBM)
-*   **[Behavioral Metrics & OBM Analytics Dashboard](./1-Academic-Credentials/MS-ABA-OBM/)**
-    *   *Description:* A Python-driven data engine that aggregates real-time workplace behavioral metrics, maps performance variances, and applies OBM data-tracking models to automate employee performance feedback.
-    *   *Tech Stack:* Python, Jupyter Notebooks, Pandas, Matplotlib.
-
-### 🏛️ Community Impact & Enterprise Architecture
-*   **[JSM Church Systems Platform](./5-Community-Impact/Jsm-Church-Projects/)**
-    *   *Description:* A secure, centralized data management system and full-stack web platform built for JSM Church projects to securely manage community registration, event tracking, and member databases.
-    *   *Tech Stack:* Full-Stack Frameworks, MySQL Workbench, Secure User Authentication, Git Cloud Sync.
-
-### 🎛️ Audio Software Technology & Creative Engineering
-*   **[Native Instruments Kontrol Hardware Automation Engine](./4-Audio-Software-Tech/)**
-    *   *Description:* A custom script package that interfaces directly with the Native Instruments Kontrol S61 and M32 MIDI keyboards, mapping custom hardware macro controls directly to Ableton Live/FL Studio mixing channels.
-    *   *Tech Stack:* Python, MIDI API Protocol, low-latency audio driver configuration routing.
-
----
-
-## 📈 Git & Continuous Development Analytics
-
-<p align="center">
-  <img src="https://vercel.app" alt="LaDonna's GitHub Stats" />
-  <img src="https://vercel.app" alt="LaDonna's Top Languages" />
-</p>
-
+### 🎮 Integrated Softmod & Infrastructure Environments
+* **Description:** An open-source engineering blueprint and portfolio detailing how a custom workstation node, a segmented homelab network subnet, and targeted legacy console environments interface with one another.
+* **Core Components:**
+  * **Workstation Node:** Centralized development environment using PyCharm under Ubuntu to build automation flows and manage raw code assets.
+  * **Homelab Network Infrastructure:** Segmented network routing utilizing static IP protocols to enable isolated intranet communication between consoles and the server.
+  * **Target Environments:** PS4 Slim hardware abstraction (firmware 13.52) utilizing a 500GB PNY CS900 SSD web exploit pipeline, alongside an Xbox 360 Slim storage provisioning architecture.
+  * **Storage Architecture:** Data array partitioning splitting a physical 8TB array into a 2TB FAT32 partition for legacy Xbox discovery and a 6TB exFAT partition for large PS4 package deployments.
+* **Tech Stack & Tools:** Python, Ubuntu Linux, MySQL Workbench, Git Cloud Sync, Aurora Scan Paths, WebKit Exploitation Paths
 
 ---
 
 ## 🤝 Connect With Me
 *   **LinkedIn:** [LaDonna's Professional Profile Link](https://www.linkedin.com/in/ladonnacomer315/)
-*   **Institutional Portfolio:** [Valencia College Academic Hub](https://valenciacollege.edu)
+*   **Institutional Portfolio:** [Valencia College Academic Hub]()
 
 
 ### 💻 Development Workspace & Configuration
@@ -115,3 +107,17 @@ I treat hackathons as high-velocity, project-based learning camps to accelerate 
     *   *Tech Stack:* Windows 11 Pro, WSL-Ubuntu Linux, Git, Local Command Line.
 
 **Ecosystem Workflow:** High-Performance Custom 850W RTX 4070 Desktop + Remote Travel-Optimized Dell Latitude 5440 Link
+
+
+---
+## 📈 Git & Continuous Development Analytics
+
+<p align="center">
+  <img src="https://vercel.app" alt="LaDonna's GitHub Stats" />
+  <img src="https://vercel.app" alt="LaDonna's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://shields.io" alt="AI Assisted Layout Badge" />
+</p>
+> *Note: This technical portfolio architecture and layout structure utilizes AI design formatting to present computer science concepts alongside clear, accessible documentation.*
