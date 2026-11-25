@@ -70,13 +70,16 @@ I treat hackathons as project-based learning camps to accelerate my technical de
 ### ⚖️ Real Life Student Balancer (DevFest Florida Hackathon 2026)
 * **Description:** A supportive student wellness and workload analysis web application that evaluates fixed work, family, and personal commitments alongside college course loads to prevent burnout.
 * **My Role:** Co-Creator & Engineer
-* **Links:** [Live Web App]([https://streamlit.app](https://real-life-student-balancer.streamlit.app/)) | [Source Code](https://github.com](https://github.com/LSMC315/real-life-student-balancer))
+* **Links:** [Live Web App]([https://streamlit.app](https://real-life-student-balancer.streamlit.app/)) | [Source Code](https://github.com/LSMC315/real-life-student-balancer)
 * **Tech Stack & Tools:** Python, Streamlit, Firebase Firestore, Gemini API
   
-* **Knight Hacks IX (University of Central Florida)** 
-  * **Status:** Completed (October 2026) 
-  * **Submission:** Successfully developed and deployed *Enchanted Defense*, a custom game project built during the hackathon workspace pipeline.
-  
+### 🌿 Enchanted Defense (Knight Hacks IX, October 2026)
+* **Description:** A dual faction top down tower defense game pitting the vibrant Bloom faction against the dark Blight faction in a battle for the enchanted realm.
+* **My Role:** Co-Creator & Documentation Lead
+* **Key Contributions:** Managed all project documentation and Devpost submission paperwork, learned foundational Unity and C# mechanics.
+* **Links:** [Team Repository](https://github.com](https://github.com/VirtualVoidCoding/KnightHacks_TowerDefenceGame ) | [My Forked Copy](https://github.com/LSMC315/KnightHacks_TowerDefenceGame)
+* **Tech Stack & Tools:** Unity Engine, C#, Git, GitHub, Devpost
+
 
 ## 🛠️ Technical Arsenal & Foundations
 
