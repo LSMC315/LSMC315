@@ -35,7 +35,7 @@ An RBT and healthcare professional with over 14 years of experience in human ser
     *   **Milestone Target:** Applying algorithmic behavior intervention schemas to corporate workplace efficiency metrics.
 
 ---
-### 📜 Professional Certifactions
+### 📜 Professional Certifications
 
 ### 🏥 Healthcare & Behavioral Science (Current)
 *   **Registered Behavior Technician (RBT)** | *Behavior Analyst Certification Board (BACB)*
